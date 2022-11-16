@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 numeric_1=float(input('Enter First Number: '))
 numeric_2=float(input('Enter Second Number: '))
 print( 'The user defined numbers are:',numeric_1,numeric_2)
@@ -25,10 +19,3 @@ elif choice =='/' or choice=='divide' or choice=='division':
     
 else:
     print('Invalid input')
-
-
-# In[ ]:
-
-
-
-
